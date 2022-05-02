@@ -15,4 +15,4 @@ jobs:
           name: build-output
           path: |
             build/
-          retention-days: 30
+          retention-days: 20

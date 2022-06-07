@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7a47a59d1133a2f6339fed448952949a",
+    "revision": "9e475dfdea4562a758f30c53ad125fd4",
     "url": "/emoji-search/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emoji-search/static/css/2.90da6880.chunk.css"
   },
   {
-    "revision": "42f9dcbbd9fa25e975b4",
-    "url": "/emoji-search/static/css/main.65605343.chunk.css"
+    "revision": "d691afcd4609233bd073",
+    "url": "/emoji-search/static/css/main.ac358405.chunk.css"
   },
   {
     "revision": "18aa7ea0e0b41dbdc961",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emoji-search/static/js/2.ae06805f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "42f9dcbbd9fa25e975b4",
+    "revision": "d691afcd4609233bd073",
     "url": "/emoji-search/static/js/main.0b73656b.chunk.js"
   },
   {
